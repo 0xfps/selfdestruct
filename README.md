@@ -1,2 +1,2 @@
 # selfdestruct
-Just testing out the selfdestruct.
+Just testing out Solidity's selfdestruct functionality.
